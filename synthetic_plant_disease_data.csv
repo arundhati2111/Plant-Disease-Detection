@@ -1,0 +1,501 @@
+Date,Location,Humidity (%),Temperature (°C),Soil Moisture (%),Rainfall (mm),pH Level,Light Intensity (lux),Disease Status
+01-01-2024,Himachal Pradesh,95.9,32.4,63.1,13.7,7.4,6077.3,Healthy
+02-01-2024,Punjab,83.6,28.4,55.2,44.8,7.3,9491.3,Bacterial Wilt
+03-01-2024,Karnataka,57.7,33.2,47.2,114.1,6.5,4178.3,Tomato Leaf Mold
+04-01-2024,Karnataka,86.7,27.4,64.3,119.3,7.5,3479.8,Bacterial Wilt
+05-01-2024,Maharashtra,61.3,32.2,64.2,69.6,5.7,4960.5,Bacterial Wilt
+06-01-2024,Himachal Pradesh,84.3,28.6,47.8,75.8,6.1,4249.7,Pepper Bell Spot
+07-01-2024,Punjab,86.7,18.3,57.2,69.9,6.4,9308.2,Tomato Leaf Mold
+08-01-2024,Karnataka,65.5,17.1,61.6,37.8,7.1,5001.2,Late Blight
+09-01-2024,Kerala,85.6,17,67.5,59.5,7.3,3871,Tomato Leaf Mold
+10-01-2024,Kerala,65.6,34.8,78.8,10.6,7.3,8596,Tomato Leaf Mold
+11-01-2024,Kerala,70,31.9,56.5,126.2,6.8,6013.2,Late Blight
+12-01-2024,Maharashtra,68.9,34.8,43.6,46.9,7.1,8763.1,Healthy
+13-01-2024,Karnataka,52.6,20.9,79,58.7,6.1,7202.6,Bacterial Wilt
+14-01-2024,Punjab,64.1,21.4,49.4,71.4,6.5,8627.2,Tomato Leaf Mold
+15-01-2024,Karnataka,96.7,16,47.5,1.6,5.7,7236.2,Pepper Bell Spot
+16-01-2024,Karnataka,94.7,31.1,43.9,139,6.7,8816.2,Pepper Bell Spot
+17-01-2024,Kerala,72.6,25.7,63.4,2.9,6.3,9869.1,Bacterial Wilt
+18-01-2024,Karnataka,78.8,20.3,57,11.7,5.6,8431.9,Healthy
+19-01-2024,Maharashtra,72.4,28,53.9,70.8,7,6570.1,Late Blight
+20-01-2024,Kerala,60.3,34,55.5,59,6.1,3326.8,Bacterial Wilt
+21-01-2024,Punjab,94.8,30.6,76.4,136.3,6.2,3740.3,Tomato Leaf Mold
+22-01-2024,Maharashtra,67.2,18.2,45.5,22.5,6.1,4205.2,Late Blight
+23-01-2024,Karnataka,89.2,20.5,45.3,83.7,7.1,9527.9,Late Blight
+24-01-2024,Karnataka,90.4,19.9,69.2,103.2,6.4,6448.3,Tomato Leaf Mold
+25-01-2024,Maharashtra,55.8,17.9,70.7,53.3,7.4,7017.3,Pepper Bell Spot
+26-01-2024,Himachal Pradesh,71.1,20.8,62,48.9,7,4082.3,Healthy
+27-01-2024,Maharashtra,74.9,28,53,67.2,6.5,8951.4,Pepper Bell Spot
+28-01-2024,Himachal Pradesh,82.8,20.9,59.3,132.4,5.5,5837.6,Healthy
+29-01-2024,Punjab,52.7,27,76.6,9.6,7.2,4055.7,Bacterial Wilt
+30-01-2024,Himachal Pradesh,77.8,22.9,46.6,101,5.9,4189.5,Tomato Leaf Mold
+31-01-2024,Himachal Pradesh,66.9,22.4,57.4,87.7,7.5,9745.8,Late Blight
+01-02-2024,Kerala,65.5,33,66.4,4.8,6.7,7321.3,Tomato Leaf Mold
+02-02-2024,Kerala,55,19.8,59,76.3,7.2,6755.7,Tomato Leaf Mold
+03-02-2024,Kerala,94.9,19.6,43.5,75,7.1,3637.2,Late Blight
+04-02-2024,Karnataka,77.2,18.2,69.4,144.3,6.4,6841.7,Bacterial Wilt
+05-02-2024,Punjab,52.5,22.9,42.6,135.4,6.8,3385.5,Pepper Bell Spot
+06-02-2024,Himachal Pradesh,87.6,20.7,44.8,50.1,7.2,5561.7,Late Blight
+07-02-2024,Maharashtra,65.7,23.4,61.4,123.9,7.4,5378.7,Healthy
+08-02-2024,Maharashtra,90.8,22.3,78.6,50.9,5.6,6926.2,Tomato Leaf Mold
+09-02-2024,Maharashtra,94.9,26.1,55.8,39.3,5.7,4679.4,Late Blight
+10-02-2024,Maharashtra,57.5,31.7,45.7,129.2,6.7,9666.2,Healthy
+11-02-2024,Kerala,52.1,16.8,60.7,100.5,6.8,8691,Pepper Bell Spot
+12-02-2024,Kerala,81.4,31.9,78.3,12,5.7,5262.8,Bacterial Wilt
+13-02-2024,Kerala,91.6,34.3,79.3,127.6,7,5651.5,Healthy
+14-02-2024,Kerala,85.2,21.9,72.2,0.4,7.1,6935.7,Late Blight
+15-02-2024,Kerala,77,18,42.5,86.8,7.3,7382.4,Pepper Bell Spot
+16-02-2024,Kerala,86,25.6,70.8,52.7,7.3,5956.6,Late Blight
+17-02-2024,Kerala,97.2,18.8,58.2,78,7.2,8463.5,Pepper Bell Spot
+18-02-2024,Himachal Pradesh,78.3,28.9,48.5,135.7,7.1,6628.8,Tomato Leaf Mold
+19-02-2024,Himachal Pradesh,54.6,23.5,55.7,6.1,5.9,9435.2,Tomato Leaf Mold
+20-02-2024,Kerala,73.7,32.5,50.9,23.6,6.1,5163.7,Healthy
+21-02-2024,Himachal Pradesh,62.9,23.5,46.1,6.6,6.3,8218.6,Pepper Bell Spot
+22-02-2024,Maharashtra,51.4,28.7,48,53.6,7.1,6686.4,Tomato Leaf Mold
+23-02-2024,Punjab,74.9,19.1,58.9,92,7.1,5606.9,Tomato Leaf Mold
+24-02-2024,Maharashtra,50.6,26.7,52.8,0.9,6.7,7375.6,Tomato Leaf Mold
+25-02-2024,Karnataka,61.7,27.2,41.2,104.9,7.3,9604.9,Healthy
+26-02-2024,Karnataka,55.9,21.1,72.6,36.7,5.6,7135.3,Bacterial Wilt
+27-02-2024,Himachal Pradesh,70.3,26.9,40.2,118,7.1,3409.3,Late Blight
+28-02-2024,Karnataka,61.4,26.8,55.9,6.5,7.5,3748.4,Bacterial Wilt
+29-02-2024,Karnataka,72.6,25.4,75.1,0.4,6.9,7893,Tomato Leaf Mold
+01-03-2024,Himachal Pradesh,61.7,29.9,43.7,5.5,5.6,5391.3,Bacterial Wilt
+02-03-2024,Himachal Pradesh,91,31.3,50.1,43.1,7.2,3690.2,Tomato Leaf Mold
+03-03-2024,Punjab,69.5,34.7,66,79.7,6.7,3332.3,Bacterial Wilt
+04-03-2024,Himachal Pradesh,54.9,22.9,76.4,56.8,6.3,7028.9,Pepper Bell Spot
+05-03-2024,Karnataka,64,21.8,71.6,61.4,6.4,4511.9,Healthy
+06-03-2024,Karnataka,54.7,26.6,48.5,42.6,5.6,3338.8,Pepper Bell Spot
+07-03-2024,Kerala,79.4,23.3,45.2,17.6,6.6,3032.1,Pepper Bell Spot
+08-03-2024,Karnataka,94,20.9,41.6,27.6,6,5477.8,Bacterial Wilt
+09-03-2024,Kerala,74.1,28.2,60.8,66.2,6.2,7007.6,Tomato Leaf Mold
+10-03-2024,Maharashtra,70.4,28.4,52.3,84.8,6.2,3569.1,Bacterial Wilt
+11-03-2024,Himachal Pradesh,71.2,29.7,67.3,133.7,6.9,5340.5,Late Blight
+12-03-2024,Kerala,81.8,28.8,74.4,139.7,6.2,9447.6,Late Blight
+13-03-2024,Kerala,72,33.2,64.9,38,6.5,7408,Tomato Leaf Mold
+14-03-2024,Himachal Pradesh,66.8,25.6,67.7,48.8,7.2,9275.4,Bacterial Wilt
+15-03-2024,Himachal Pradesh,69,33.5,44,83.8,6.2,5503,Healthy
+16-03-2024,Himachal Pradesh,74.8,34.6,41.8,140.5,6.4,6102.2,Late Blight
+17-03-2024,Kerala,83.2,22.6,50.2,137.6,5.8,7881.4,Bacterial Wilt
+18-03-2024,Maharashtra,52.4,24,69,93.4,6.7,7703.5,Tomato Leaf Mold
+19-03-2024,Kerala,95.6,22.8,71.9,137,5.6,3333.5,Pepper Bell Spot
+20-03-2024,Kerala,91.6,21.1,62.1,23.2,7.2,9728.4,Bacterial Wilt
+21-03-2024,Kerala,86.1,25.6,73.2,67.8,7.1,3916,Bacterial Wilt
+22-03-2024,Himachal Pradesh,72.5,32.5,66.9,27.5,5.8,6810.4,Tomato Leaf Mold
+23-03-2024,Maharashtra,51,30.6,72.4,46.3,5.6,7523.8,Late Blight
+24-03-2024,Punjab,63.5,21.1,49.9,51.5,6.1,9208.4,Pepper Bell Spot
+25-03-2024,Kerala,95.3,24.5,43,61,5.5,3938.4,Tomato Leaf Mold
+26-03-2024,Kerala,51.2,24.4,65.1,44.4,6.4,7691.5,Pepper Bell Spot
+27-03-2024,Karnataka,59.5,19.7,64,69.3,6.8,4073,Tomato Leaf Mold
+28-03-2024,Kerala,64,32.3,66.8,122.8,6.1,5779.7,Late Blight
+29-03-2024,Himachal Pradesh,70,15.1,46.5,5.7,6,7086.4,Bacterial Wilt
+30-03-2024,Kerala,96.9,32,59.8,93.7,7,6705.5,Late Blight
+31-03-2024,Himachal Pradesh,93.4,33.4,70.3,132.3,7.3,4795.7,Bacterial Wilt
+01-04-2024,Karnataka,61.8,21.8,54.4,31.2,5.5,4365.3,Bacterial Wilt
+02-04-2024,Karnataka,69.9,28.6,76.6,102.3,7,6625,Bacterial Wilt
+03-04-2024,Maharashtra,71.2,24.2,67.2,113,7.5,4819.3,Healthy
+04-04-2024,Himachal Pradesh,78.7,21.5,57.6,49.8,6,9787,Tomato Leaf Mold
+05-04-2024,Kerala,71.3,21.7,56.9,60.5,6.2,5999.3,Healthy
+06-04-2024,Punjab,65.6,25.2,67.3,101.8,7.5,6380.8,Late Blight
+07-04-2024,Himachal Pradesh,95.2,33.3,64.8,148,6,8373,Bacterial Wilt
+08-04-2024,Maharashtra,97.7,15.7,60.7,64.9,6.9,7863,Healthy
+09-04-2024,Karnataka,63.9,16.2,53,75.6,7.3,6735.1,Bacterial Wilt
+10-04-2024,Kerala,56.9,16.6,42,42,7,8200.9,Late Blight
+11-04-2024,Kerala,57.7,20.1,50.3,88.4,6.5,9207.8,Pepper Bell Spot
+12-04-2024,Maharashtra,86.1,29.7,41.4,87.4,6.9,4711,Tomato Leaf Mold
+13-04-2024,Karnataka,74.8,19.8,45.7,109.2,7.2,6239,Bacterial Wilt
+14-04-2024,Himachal Pradesh,80.2,20.5,79.2,48.9,5.5,8944.1,Pepper Bell Spot
+15-04-2024,Karnataka,68,28.4,65.4,3.6,5.6,8565.1,Tomato Leaf Mold
+16-04-2024,Kerala,66.6,29.7,50.6,85.9,7,7776.6,Healthy
+17-04-2024,Himachal Pradesh,98,32.9,58.4,31.7,5.9,4281.8,Late Blight
+18-04-2024,Punjab,53.9,16.2,51.7,1.2,7.2,5001.7,Healthy
+19-04-2024,Maharashtra,68.7,24.2,71.8,141.8,6.5,3516.6,Healthy
+20-04-2024,Maharashtra,58.4,28.5,50.3,49.3,6.9,8435.9,Pepper Bell Spot
+21-04-2024,Kerala,65,19.4,65.1,38.9,6.2,6432.8,Pepper Bell Spot
+22-04-2024,Kerala,55,32.7,53.2,104.8,6.2,5883.4,Tomato Leaf Mold
+23-04-2024,Karnataka,94.3,23.5,67.1,13.7,5.9,6389.3,Tomato Leaf Mold
+24-04-2024,Himachal Pradesh,88.3,28.8,75.5,17.2,6.9,9826.6,Pepper Bell Spot
+25-04-2024,Himachal Pradesh,74.6,33.8,43.5,103.3,5.7,4012.1,Late Blight
+26-04-2024,Punjab,81,16.1,73.2,103.7,6.1,7113.7,Late Blight
+27-04-2024,Karnataka,91.1,33.5,70.8,18.7,5.6,7189.8,Late Blight
+28-04-2024,Karnataka,98.6,30.7,60.8,124.4,6.4,3880.5,Bacterial Wilt
+29-04-2024,Karnataka,63.1,34.9,41.3,82.5,6.1,5107.2,Late Blight
+30-04-2024,Maharashtra,68,29.9,50.1,11.6,7.1,7870.5,Late Blight
+01-05-2024,Kerala,99,16.2,56.6,9.3,6.3,3388.1,Tomato Leaf Mold
+02-05-2024,Himachal Pradesh,96.7,25.8,46,42.3,6.2,5725,Tomato Leaf Mold
+03-05-2024,Maharashtra,68.8,25.6,73.3,31.6,6.5,8221.5,Pepper Bell Spot
+04-05-2024,Maharashtra,94,21.7,63.5,124.7,7,3925.4,Tomato Leaf Mold
+05-05-2024,Karnataka,61,27.6,58.6,110.7,7,9354.6,Tomato Leaf Mold
+06-05-2024,Kerala,77.3,33.2,48.9,0.5,7.4,8876.2,Pepper Bell Spot
+07-05-2024,Himachal Pradesh,55.2,24.8,76.8,16.4,5.6,9782.9,Tomato Leaf Mold
+08-05-2024,Kerala,89.4,28.1,73.4,7.8,5.8,4986,Late Blight
+09-05-2024,Kerala,92,29.2,64.1,71.6,6.4,9643.9,Bacterial Wilt
+10-05-2024,Karnataka,92.2,29.5,42.8,16.8,6.2,5178.9,Late Blight
+11-05-2024,Maharashtra,63.4,18.2,71.6,125.1,7,4624.6,Healthy
+12-05-2024,Kerala,98.8,34.4,40.5,22.5,6.6,6326.9,Tomato Leaf Mold
+13-05-2024,Himachal Pradesh,86,20,50.1,30.4,7.3,5565.8,Bacterial Wilt
+14-05-2024,Punjab,67.9,28.7,66.4,14.5,7.1,7629.9,Pepper Bell Spot
+15-05-2024,Maharashtra,72,15.6,70.6,97.7,6.8,5967.3,Pepper Bell Spot
+16-05-2024,Himachal Pradesh,53.7,23.9,51.6,58.6,5.9,4056.5,Late Blight
+17-05-2024,Karnataka,54,20.7,64.2,140.4,5.5,4035.7,Healthy
+18-05-2024,Maharashtra,76.1,16.4,43.6,3.3,5.9,5723.2,Late Blight
+19-05-2024,Kerala,55.2,28.1,74.1,62.2,7.4,6882.4,Tomato Leaf Mold
+20-05-2024,Maharashtra,70.7,20.3,79.3,79.2,6.9,9418.5,Pepper Bell Spot
+21-05-2024,Karnataka,74.1,18.7,71.9,103.8,6.3,7137.3,Late Blight
+22-05-2024,Maharashtra,90.2,34.4,46.8,142.6,6.2,8460,Tomato Leaf Mold
+23-05-2024,Maharashtra,92.4,19.6,43.2,16.1,7.1,5891.8,Tomato Leaf Mold
+24-05-2024,Himachal Pradesh,65.1,27.8,66.6,69.6,6.3,3471.6,Pepper Bell Spot
+25-05-2024,Himachal Pradesh,88.7,24.4,77.7,27.8,6.3,4159.3,Late Blight
+26-05-2024,Himachal Pradesh,79.5,25.6,74.8,22.2,5.8,4572,Pepper Bell Spot
+27-05-2024,Kerala,67.8,17.6,76.6,55.4,7.3,7513.9,Pepper Bell Spot
+28-05-2024,Maharashtra,57.6,23.1,70.8,37,7.3,7622.1,Late Blight
+29-05-2024,Karnataka,60.8,18,60,99.3,7,4386.6,Tomato Leaf Mold
+30-05-2024,Himachal Pradesh,77.4,15.1,66.3,60.3,7.4,8737,Bacterial Wilt
+31-05-2024,Kerala,98,15.2,70.8,127.6,7.2,7990.1,Late Blight
+01-06-2024,Kerala,63.9,24.9,72.9,33.5,6.9,9101,Tomato Leaf Mold
+02-06-2024,Kerala,76,27.5,59.3,131.8,6.8,3751.1,Late Blight
+03-06-2024,Punjab,73,18.7,65.1,83.9,5.8,5225.4,Tomato Leaf Mold
+04-06-2024,Punjab,89.9,34.2,64.6,125.9,5.8,7207.5,Late Blight
+05-06-2024,Kerala,84.2,15.6,43.7,16.8,7.2,4358.6,Tomato Leaf Mold
+06-06-2024,Punjab,88.7,17.4,52.7,51,6.4,8765.6,Healthy
+07-06-2024,Himachal Pradesh,79.1,21.9,60,97.4,5.6,8405,Pepper Bell Spot
+08-06-2024,Maharashtra,63.6,25.9,74.9,50.2,6.2,7526.1,Late Blight
+09-06-2024,Maharashtra,96.6,18.4,74,114.1,5.6,4613.1,Pepper Bell Spot
+10-06-2024,Kerala,66.9,17.2,59.4,26.9,5.5,4464.8,Late Blight
+11-06-2024,Kerala,70.3,18.2,48.4,47.2,7.4,4859.1,Pepper Bell Spot
+12-06-2024,Punjab,95.7,34.5,69.7,10,6,6446.7,Healthy
+13-06-2024,Punjab,66.5,27.8,54.7,81.5,6.9,6647.5,Tomato Leaf Mold
+14-06-2024,Karnataka,71.3,31.7,79.8,146.2,5.9,3580.1,Tomato Leaf Mold
+15-06-2024,Himachal Pradesh,88.1,29.8,49.8,64.3,6.6,8433.2,Late Blight
+16-06-2024,Maharashtra,77.8,15.1,41.4,30,7.2,8450.4,Pepper Bell Spot
+17-06-2024,Himachal Pradesh,66.4,19.1,76.7,106.5,6.1,8248,Tomato Leaf Mold
+18-06-2024,Kerala,69.1,34.8,46,20.9,5.8,8010.4,Tomato Leaf Mold
+19-06-2024,Kerala,69.2,18.2,78.2,88,6.2,7823.9,Tomato Leaf Mold
+20-06-2024,Karnataka,54.5,32,68.2,75.9,6.3,7021,Pepper Bell Spot
+21-06-2024,Karnataka,62.8,24.6,61.6,80.7,6.2,9600.8,Late Blight
+22-06-2024,Himachal Pradesh,86.2,29.9,56.4,39.7,6.5,8125.5,Bacterial Wilt
+23-06-2024,Karnataka,60.4,28.7,60.2,114.7,6.2,6715.2,Healthy
+24-06-2024,Punjab,87.8,16,48.4,44.3,7.1,6480,Pepper Bell Spot
+25-06-2024,Punjab,90.1,17.1,57.1,101.9,6.7,3532,Bacterial Wilt
+26-06-2024,Karnataka,60.6,23.8,67.8,64.1,6.6,5394.7,Pepper Bell Spot
+27-06-2024,Maharashtra,50.7,34.7,48.7,68.9,7,5022.8,Late Blight
+28-06-2024,Punjab,96.4,18,49.3,14.3,6.3,3392.5,Healthy
+29-06-2024,Himachal Pradesh,77.8,20.2,54.1,103,6.7,9948.2,Pepper Bell Spot
+30-06-2024,Himachal Pradesh,74,21,57.4,136.5,6.6,5253.6,Bacterial Wilt
+01-07-2024,Kerala,98.8,23.7,59.3,136.7,7.5,6431.7,Late Blight
+02-07-2024,Maharashtra,67.9,21.9,44.5,144.4,5.8,6133.7,Bacterial Wilt
+03-07-2024,Himachal Pradesh,51.6,26.5,65.7,139.4,6.2,9752.1,Tomato Leaf Mold
+04-07-2024,Kerala,81.2,22.5,72.5,67.6,6,3095,Healthy
+05-07-2024,Punjab,85.6,30.5,72.3,30.2,6.4,6025.2,Bacterial Wilt
+06-07-2024,Himachal Pradesh,94,17.2,55.3,24.3,6.1,6112.8,Late Blight
+07-07-2024,Kerala,55.5,33.2,51.6,43.5,6.6,8724,Late Blight
+08-07-2024,Maharashtra,96.1,20.1,63.9,16.6,6.4,6906.9,Tomato Leaf Mold
+09-07-2024,Himachal Pradesh,71.1,34.3,52.5,57,6.5,6496.6,Pepper Bell Spot
+10-07-2024,Karnataka,64.9,21,58.2,77.5,6.5,8298.2,Late Blight
+11-07-2024,Kerala,81,15.8,64.7,54,6,9999,Healthy
+12-07-2024,Punjab,94.6,25.3,69.8,25.9,6.4,4963.3,Bacterial Wilt
+13-07-2024,Karnataka,86.1,23.9,42,82,6.4,4510,Late Blight
+14-07-2024,Maharashtra,89.2,28.3,65.1,99,6.3,3683.3,Bacterial Wilt
+15-07-2024,Punjab,84.3,28.6,67.9,84.4,6,3490.4,Late Blight
+16-07-2024,Karnataka,82.9,29.4,76.4,114.6,5.9,4604.4,Healthy
+17-07-2024,Maharashtra,62.1,25,78.8,87.5,5.8,7212.5,Tomato Leaf Mold
+18-07-2024,Himachal Pradesh,89.5,27.5,70,108.7,7.3,3712.6,Tomato Leaf Mold
+19-07-2024,Maharashtra,90.6,22,78.4,45.8,6.7,9551.9,Tomato Leaf Mold
+20-07-2024,Karnataka,87.4,29.6,47.1,39.3,5.7,4517.5,Tomato Leaf Mold
+21-07-2024,Punjab,71.1,32.9,49.6,65,7,4817,Late Blight
+22-07-2024,Maharashtra,91.5,25.2,70.7,99.9,6.3,6840.5,Late Blight
+23-07-2024,Kerala,100,32,42.1,6.2,5.9,5722.1,Tomato Leaf Mold
+24-07-2024,Maharashtra,94.6,29.3,65.3,96.9,6.7,5799.5,Bacterial Wilt
+25-07-2024,Himachal Pradesh,63,17.2,72.6,37.2,6.9,6762,Pepper Bell Spot
+26-07-2024,Himachal Pradesh,63.8,25.5,70.3,7.9,6.4,6142.8,Late Blight
+27-07-2024,Punjab,91.8,33.4,49,134.3,5.6,4080.9,Healthy
+28-07-2024,Himachal Pradesh,73.8,15.5,51.9,141.5,6,4880.5,Bacterial Wilt
+29-07-2024,Maharashtra,64.7,34.9,58.2,122.5,5.6,7382.2,Bacterial Wilt
+30-07-2024,Punjab,77,21.2,71.4,16.1,6.9,8891.4,Tomato Leaf Mold
+31-07-2024,Punjab,93.5,20.8,69.1,86.5,7.2,6059.2,Late Blight
+01-08-2024,Karnataka,63.8,26.3,44.9,61.5,7.2,7391,Pepper Bell Spot
+02-08-2024,Punjab,82.5,34,64.4,129.9,5.8,7509.9,Late Blight
+03-08-2024,Kerala,96.8,20.8,54.3,95.4,6.8,9096.2,Late Blight
+04-08-2024,Himachal Pradesh,93.4,34.9,71.3,18.5,7.2,9830.6,Tomato Leaf Mold
+05-08-2024,Punjab,83.1,25.3,62.8,141.5,7.2,5565.5,Pepper Bell Spot
+06-08-2024,Punjab,86,17.1,43.8,118.9,6.5,8900.9,Healthy
+07-08-2024,Punjab,92.9,20,54.8,144.6,7.5,8096.7,Late Blight
+08-08-2024,Himachal Pradesh,97.9,22.4,46.5,59.9,5.9,8113,Late Blight
+09-08-2024,Maharashtra,81.9,20.6,40.8,117,6.6,9250.4,Late Blight
+10-08-2024,Kerala,96.6,16.6,45.5,127.4,5.7,3795.7,Late Blight
+11-08-2024,Himachal Pradesh,57.9,33.9,69.1,147.6,6.3,8146.9,Tomato Leaf Mold
+12-08-2024,Maharashtra,84.9,31.8,48.9,130.8,7,7058.8,Pepper Bell Spot
+13-08-2024,Himachal Pradesh,95.9,25.8,42.1,75.5,6.4,7300.5,Late Blight
+14-08-2024,Maharashtra,64.5,34.1,66.4,88.4,5.9,3780.8,Healthy
+15-08-2024,Punjab,91,31.2,48.3,65.1,7,6793.1,Bacterial Wilt
+16-08-2024,Maharashtra,75.2,23.5,62.1,12.4,7.3,5424.5,Late Blight
+17-08-2024,Himachal Pradesh,67.4,27.9,64.7,41.7,7,9948.8,Healthy
+18-08-2024,Kerala,70.3,33.9,51.9,90.9,6.5,5747.3,Bacterial Wilt
+19-08-2024,Himachal Pradesh,62,23.7,63.3,56.8,7,5582.6,Tomato Leaf Mold
+20-08-2024,Kerala,76.2,17.9,58.6,79.6,6.2,5023.4,Pepper Bell Spot
+21-08-2024,Himachal Pradesh,63.2,32.9,69.4,69,7.1,4028,Healthy
+22-08-2024,Punjab,97.2,22.2,73.2,9.7,7.3,5825.1,Healthy
+23-08-2024,Maharashtra,88.6,28.6,46.7,148,6.4,8435.5,Healthy
+24-08-2024,Karnataka,86.2,29,75.6,12.8,5.6,3873.7,Pepper Bell Spot
+25-08-2024,Karnataka,60.3,33.7,57.8,8.8,5.5,4260.5,Healthy
+26-08-2024,Himachal Pradesh,78.8,31.2,57.3,27.7,5.8,9092.1,Late Blight
+27-08-2024,Karnataka,60.6,18.2,41.7,45.9,5.9,4465.3,Pepper Bell Spot
+28-08-2024,Himachal Pradesh,92.3,15.2,76.6,126.3,6.9,8599.7,Bacterial Wilt
+29-08-2024,Maharashtra,55.2,22.5,43.5,52.1,6.3,7615.2,Tomato Leaf Mold
+30-08-2024,Karnataka,75.9,30.9,61.9,65.1,5.9,8181.4,Late Blight
+31-08-2024,Karnataka,75.2,21,62.6,99.6,7,3748.3,Late Blight
+01-09-2024,Kerala,68.2,32.4,56.3,136.3,6.5,8388.1,Late Blight
+02-09-2024,Maharashtra,52,24.6,58.6,35.5,7.3,6509.3,Late Blight
+03-09-2024,Karnataka,68.5,25.1,66.8,54.7,7.1,6528.1,Late Blight
+04-09-2024,Karnataka,97.3,33.9,78.7,123.8,6.2,3607.7,Pepper Bell Spot
+05-09-2024,Himachal Pradesh,89.2,34.3,44,46.2,7.4,7660.8,Bacterial Wilt
+06-09-2024,Himachal Pradesh,82.9,32.4,40.5,30.4,6.9,4022.7,Tomato Leaf Mold
+07-09-2024,Karnataka,77.2,21.2,79.1,36.9,6.6,5741.1,Late Blight
+08-09-2024,Karnataka,66.4,16.1,48.4,140.6,6.6,6431.8,Tomato Leaf Mold
+09-09-2024,Kerala,74.7,29.7,61.4,117.1,6.6,4381.7,Healthy
+10-09-2024,Karnataka,79.7,24.8,75.2,78.7,5.6,3198,Tomato Leaf Mold
+11-09-2024,Punjab,65.8,21.2,62.7,129.8,6.3,4770.2,Bacterial Wilt
+12-09-2024,Maharashtra,51.5,34.8,52.7,145.6,6,8436.4,Tomato Leaf Mold
+13-09-2024,Maharashtra,54,20.9,57.8,18.5,7.4,9460.2,Healthy
+14-09-2024,Himachal Pradesh,57.8,16.6,50.5,89.2,5.7,8205.6,Bacterial Wilt
+15-09-2024,Punjab,60.2,31.7,63.4,12,7.3,5825.2,Late Blight
+16-09-2024,Himachal Pradesh,76.1,22.1,66.4,34.2,6.1,3590.7,Healthy
+17-09-2024,Karnataka,52.5,27.7,74.2,8.2,7,6431.3,Pepper Bell Spot
+18-09-2024,Kerala,83.6,17.9,55.8,105.9,6.5,5199.5,Late Blight
+19-09-2024,Karnataka,99.1,27.6,42.8,25.6,6,7992.7,Healthy
+20-09-2024,Himachal Pradesh,95.8,28,54.9,119.4,5.6,5393.4,Pepper Bell Spot
+21-09-2024,Kerala,64.8,31.8,43.1,6.1,7.3,9613.7,Pepper Bell Spot
+22-09-2024,Maharashtra,69.9,30.3,60.6,109.2,5.9,9419.9,Healthy
+23-09-2024,Maharashtra,73.3,28.9,71.7,120.8,6.2,7360.8,Tomato Leaf Mold
+24-09-2024,Punjab,100,18.5,48.1,129.3,6.1,3897.4,Healthy
+25-09-2024,Himachal Pradesh,64.8,34.8,41.1,55.6,6.8,6308.2,Bacterial Wilt
+26-09-2024,Punjab,62.2,17.8,59.1,13.4,5.5,7169.5,Bacterial Wilt
+27-09-2024,Maharashtra,50.6,34.3,73,126.4,6.3,4223.7,Late Blight
+28-09-2024,Himachal Pradesh,87.9,33.4,59.5,138.2,7.1,5969.4,Bacterial Wilt
+29-09-2024,Maharashtra,85.5,23.5,72.1,19.1,5.7,5190.4,Late Blight
+30-09-2024,Kerala,68.8,33,68.4,135.7,5.8,7434.9,Tomato Leaf Mold
+01-10-2024,Kerala,74,32.2,54.3,126.5,7.2,8363.3,Bacterial Wilt
+02-10-2024,Maharashtra,95.3,25.6,43.9,118,5.7,3106.5,Tomato Leaf Mold
+03-10-2024,Karnataka,54.8,18.8,43.2,100.6,5.8,6145.4,Pepper Bell Spot
+04-10-2024,Himachal Pradesh,66,19,44,141.3,6.9,3738.9,Healthy
+05-10-2024,Punjab,50.7,28.5,76,68.3,7.4,7267.7,Bacterial Wilt
+06-10-2024,Kerala,83.4,32.3,73.2,14.2,7.3,4381,Bacterial Wilt
+07-10-2024,Himachal Pradesh,60.2,28.7,40.4,51.5,7.3,5210.2,Tomato Leaf Mold
+08-10-2024,Punjab,80.1,27.2,62.7,125.2,6.1,9225.2,Bacterial Wilt
+09-10-2024,Himachal Pradesh,58.6,25.6,73.6,75.1,5.7,6926.8,Pepper Bell Spot
+10-10-2024,Punjab,95.4,31.4,69.4,18,6,7836.6,Bacterial Wilt
+11-10-2024,Kerala,85,22.2,66.1,62,6.3,8225.8,Tomato Leaf Mold
+12-10-2024,Maharashtra,95.4,19.1,58,107.7,5.7,7213,Late Blight
+13-10-2024,Maharashtra,54.6,19.2,69.6,16.8,7.2,9908,Tomato Leaf Mold
+14-10-2024,Punjab,59,32.5,72.9,6.6,7,6801.4,Bacterial Wilt
+15-10-2024,Kerala,85.7,33.7,50,12.9,6.9,9508.1,Healthy
+16-10-2024,Karnataka,83.6,18.5,61.5,35.1,6.9,9920.8,Late Blight
+17-10-2024,Himachal Pradesh,85.2,31.1,65.2,66.8,6.1,5775.5,Pepper Bell Spot
+18-10-2024,Himachal Pradesh,54.2,31.9,67.6,25.8,7.1,3076.1,Late Blight
+19-10-2024,Himachal Pradesh,87.1,18,78.2,142.4,6.6,8483.4,Late Blight
+20-10-2024,Punjab,85.7,19.2,40.7,41.1,6.2,8818.3,Bacterial Wilt
+21-10-2024,Karnataka,75.8,23.3,45.9,69.9,6.7,6445.7,Tomato Leaf Mold
+22-10-2024,Maharashtra,70,28.9,41.2,129,7.4,8818.9,Healthy
+23-10-2024,Maharashtra,95.9,21.7,46.2,68.3,6,7707.9,Bacterial Wilt
+24-10-2024,Karnataka,87.2,22.9,77.4,137.6,6.7,9559.9,Pepper Bell Spot
+25-10-2024,Punjab,80.3,22,50.8,130.8,5.7,3675.7,Healthy
+26-10-2024,Maharashtra,98.8,28.1,44.3,29.5,5.6,7079.9,Tomato Leaf Mold
+27-10-2024,Maharashtra,98.1,29.7,43.3,38.9,6.9,4339.2,Bacterial Wilt
+28-10-2024,Himachal Pradesh,64.5,27.5,48.2,82.2,5.5,5492.1,Bacterial Wilt
+29-10-2024,Maharashtra,86.8,16.2,77.7,114.7,5.8,7129.6,Pepper Bell Spot
+30-10-2024,Kerala,58.5,22.3,78.4,80.3,6.7,3983,Pepper Bell Spot
+31-10-2024,Punjab,65.2,24.5,65.9,62.9,7.2,3324.3,Late Blight
+01-11-2024,Karnataka,89.6,19.1,71.8,84.2,6,4363.5,Bacterial Wilt
+02-11-2024,Kerala,69.6,23,68.6,134.8,6.9,3074.8,Healthy
+03-11-2024,Himachal Pradesh,87.8,24.7,40.1,83.2,6,9152.4,Tomato Leaf Mold
+04-11-2024,Punjab,85.3,21.1,59.6,103.1,6.7,8236.8,Healthy
+05-11-2024,Kerala,92.1,33.9,55.1,38.2,6.2,5311.6,Tomato Leaf Mold
+06-11-2024,Kerala,55.2,19.3,68.4,105.6,7.2,9457.5,Tomato Leaf Mold
+07-11-2024,Karnataka,79.9,31.4,73.2,117.3,6.4,6969.7,Late Blight
+08-11-2024,Kerala,89.2,16.7,52.1,4.9,5.6,7584.4,Healthy
+09-11-2024,Himachal Pradesh,90.7,18.1,61.9,54.2,6.2,5659,Tomato Leaf Mold
+10-11-2024,Karnataka,79.8,21.9,66.1,108.6,7.2,8112.5,Tomato Leaf Mold
+11-11-2024,Karnataka,77.3,16.7,50.5,55.9,5.7,9756.1,Late Blight
+12-11-2024,Maharashtra,65.9,24,56.1,43.5,6.6,9891.9,Healthy
+13-11-2024,Maharashtra,94.5,31.8,40.1,137.4,7.2,4291.9,Healthy
+14-11-2024,Himachal Pradesh,64.7,29.2,59.1,19.9,6.6,9548.3,Healthy
+15-11-2024,Punjab,69.6,32.5,60.3,4.4,6.4,5195.1,Tomato Leaf Mold
+16-11-2024,Karnataka,73.6,16.6,47.6,27.6,6.8,6729.3,Pepper Bell Spot
+17-11-2024,Karnataka,71.8,21.8,74.2,107.2,6.4,9715.2,Pepper Bell Spot
+18-11-2024,Punjab,92.8,22.9,76,71.9,6.6,3818.3,Late Blight
+19-11-2024,Kerala,89.3,28.3,68.8,79,7.1,8999,Late Blight
+20-11-2024,Kerala,83.3,26.7,75.2,54.2,7.3,9262.2,Late Blight
+21-11-2024,Kerala,92.2,16.1,75.3,3.8,5.6,7566.8,Tomato Leaf Mold
+22-11-2024,Karnataka,67.2,30.6,51.8,6.5,7,4705.3,Bacterial Wilt
+23-11-2024,Punjab,58.7,27.5,53.4,69.3,6.9,4479.4,Tomato Leaf Mold
+24-11-2024,Karnataka,51.7,28.5,71,124.9,7.2,9315.5,Healthy
+25-11-2024,Maharashtra,68.4,30.1,75.2,146.7,6.3,4634.9,Healthy
+26-11-2024,Punjab,50.8,29.6,52.6,84.4,5.8,5640.5,Bacterial Wilt
+27-11-2024,Himachal Pradesh,88.6,31.6,64,105.4,6.6,3365,Bacterial Wilt
+28-11-2024,Punjab,51.6,16.6,51.4,0.6,7,6049.6,Tomato Leaf Mold
+29-11-2024,Himachal Pradesh,59.8,19.5,59.5,10.3,6.1,9278.9,Pepper Bell Spot
+30-11-2024,Punjab,81.6,21,43.9,43.1,7.4,8772.1,Healthy
+01-12-2024,Karnataka,88,15.9,66.1,105.1,6.9,6764.7,Tomato Leaf Mold
+02-12-2024,Punjab,91.6,16.9,42.4,19.9,7,9405.1,Healthy
+03-12-2024,Maharashtra,87.7,22.8,50.3,143.7,5.6,8529.4,Healthy
+04-12-2024,Kerala,68,26.6,41.5,96.6,7,4817,Pepper Bell Spot
+05-12-2024,Kerala,63.1,25.6,46.9,56.1,5.7,7694,Healthy
+06-12-2024,Punjab,97.7,26.1,65.4,122.1,6.1,9652.4,Healthy
+07-12-2024,Punjab,94.2,30.9,56.4,117.8,6.2,3879,Pepper Bell Spot
+08-12-2024,Himachal Pradesh,99.5,19.4,54.3,85.6,5.6,8189.2,Late Blight
+09-12-2024,Kerala,76.2,35,73.3,30.5,7.5,6988.1,Tomato Leaf Mold
+10-12-2024,Punjab,94.7,19.9,53.9,94.1,6.2,6835.9,Pepper Bell Spot
+11-12-2024,Maharashtra,89.3,28.6,79.9,88.5,7.4,9128.2,Healthy
+12-12-2024,Himachal Pradesh,79.2,30.7,63.3,29.7,6.6,9632.2,Late Blight
+13-12-2024,Karnataka,99.1,17.3,74.2,45.4,6.9,8482.3,Healthy
+14-12-2024,Kerala,80.2,17,60.4,4.5,5.9,5471.7,Healthy
+15-12-2024,Maharashtra,87,28.6,60,113.1,6,6948.6,Bacterial Wilt
+16-12-2024,Punjab,67,34.3,66.7,42.5,7.2,8622.7,Pepper Bell Spot
+17-12-2024,Punjab,91.3,22.8,40.5,27,7.1,4913.1,Late Blight
+18-12-2024,Maharashtra,78.8,19.4,57,21.6,6.6,7164.8,Tomato Leaf Mold
+19-12-2024,Himachal Pradesh,96.7,24,47.3,83.7,7.3,8554.1,Tomato Leaf Mold
+20-12-2024,Maharashtra,57.5,34.4,64,144.8,6.7,6467.5,Bacterial Wilt
+21-12-2024,Punjab,89.4,19,46.7,86.1,7.2,6426.3,Pepper Bell Spot
+22-12-2024,Karnataka,88.7,15.5,40.4,96.6,7,5875.5,Tomato Leaf Mold
+23-12-2024,Maharashtra,87.3,29.1,71.4,6.3,7.3,3113.9,Tomato Leaf Mold
+24-12-2024,Maharashtra,76.2,20.8,48.6,119.1,7.4,7394.7,Pepper Bell Spot
+25-12-2024,Karnataka,50.6,28.2,52.2,146.3,6.2,3439.3,Healthy
+26-12-2024,Karnataka,81.9,22,69.4,27,5.5,7474.9,Late Blight
+27-12-2024,Himachal Pradesh,86.7,16.7,73,107,7.1,8471.2,Tomato Leaf Mold
+28-12-2024,Karnataka,84.7,27.1,48.5,128.9,7.3,7648.6,Healthy
+29-12-2024,Maharashtra,82.6,25,78,136.7,6.5,4889.8,Tomato Leaf Mold
+30-12-2024,Punjab,91.2,34.7,78.7,115.8,7.3,8676,Pepper Bell Spot
+31-12-2024,Himachal Pradesh,92.1,30,46.1,34.8,6.5,9683.5,Late Blight
+01-01-2025,Punjab,85.3,16.9,65.2,7.9,6.7,5854.1,Pepper Bell Spot
+02-01-2025,Himachal Pradesh,55.4,31.6,41.4,57.8,6.5,4063.8,Bacterial Wilt
+03-01-2025,Kerala,92.3,26.2,67.1,138.9,6.8,9070.8,Bacterial Wilt
+04-01-2025,Kerala,89.8,23.1,71.4,149.7,5.6,5013.2,Pepper Bell Spot
+05-01-2025,Kerala,78.5,31.1,43.5,99.9,7.4,5854.4,Pepper Bell Spot
+06-01-2025,Kerala,63.9,33.5,46.1,98.5,5.6,5331.8,Tomato Leaf Mold
+07-01-2025,Karnataka,51.1,22,50.8,1.9,6.7,6825.1,Healthy
+08-01-2025,Karnataka,92.9,20.5,60.4,3.2,6.5,7137.4,Tomato Leaf Mold
+09-01-2025,Punjab,51.3,24.4,50.7,62.4,5.8,5540.6,Tomato Leaf Mold
+10-01-2025,Maharashtra,59.9,16.2,60.8,126.2,6.4,6730.6,Pepper Bell Spot
+11-01-2025,Karnataka,64.8,27.9,58.5,27.4,6.6,8578.3,Tomato Leaf Mold
+12-01-2025,Maharashtra,56.8,27,64.6,144.5,6.8,7716.8,Bacterial Wilt
+13-01-2025,Himachal Pradesh,91.7,17.6,56.9,24.5,5.6,7896.3,Healthy
+14-01-2025,Kerala,92.4,28.7,59.9,68.4,5.5,3678.6,Healthy
+15-01-2025,Karnataka,72.6,19.3,52.7,142.7,6.4,5094.8,Bacterial Wilt
+16-01-2025,Punjab,62,24.3,74.1,74.9,6.2,8087.9,Healthy
+17-01-2025,Punjab,93.5,26.1,58.3,133,7.3,5826.1,Bacterial Wilt
+18-01-2025,Himachal Pradesh,52.9,22.4,71.4,34.1,5.9,7207.3,Pepper Bell Spot
+19-01-2025,Himachal Pradesh,90.9,32.3,50.9,101.2,7.4,5414.5,Healthy
+20-01-2025,Kerala,62.8,21.9,63.7,48.1,5.9,8928.6,Tomato Leaf Mold
+21-01-2025,Kerala,77.1,29.2,63.1,140.4,6.9,6601,Pepper Bell Spot
+22-01-2025,Punjab,60.8,22.7,53.9,127.2,6.8,6193,Late Blight
+23-01-2025,Punjab,61.3,25.7,66.4,94.2,5.8,6035.4,Healthy
+24-01-2025,Himachal Pradesh,66.4,17,69.5,130,6.6,4765.6,Pepper Bell Spot
+25-01-2025,Himachal Pradesh,60,19.1,51.6,131,7.1,4104.7,Bacterial Wilt
+26-01-2025,Karnataka,62,31.9,63.1,118.2,6,4539.7,Pepper Bell Spot
+27-01-2025,Himachal Pradesh,52.4,17.4,79.2,19.4,7.2,9944.8,Tomato Leaf Mold
+28-01-2025,Punjab,76.8,34.9,51.5,82.4,6,5011.6,Pepper Bell Spot
+29-01-2025,Punjab,91.7,29,64.3,36.2,6.7,6729.8,Late Blight
+30-01-2025,Himachal Pradesh,83.2,21.9,42,76.3,7.5,4656.7,Pepper Bell Spot
+31-01-2025,Karnataka,68.5,31.3,41.9,121.7,7.4,8498.6,Pepper Bell Spot
+01-02-2025,Himachal Pradesh,77,23,73,18.4,7.4,8371.6,Bacterial Wilt
+02-02-2025,Punjab,62.2,25.9,54.3,51.5,5.9,5855.3,Late Blight
+03-02-2025,Kerala,90.8,26,64.2,96.7,5.9,6908.6,Late Blight
+04-02-2025,Maharashtra,78.1,18.4,63.2,113.1,6.8,7930.5,Healthy
+05-02-2025,Himachal Pradesh,85.7,20.6,53.8,90.5,6.5,8689.2,Late Blight
+06-02-2025,Maharashtra,54.7,25.4,68.3,131.3,6.9,3436.7,Tomato Leaf Mold
+07-02-2025,Punjab,68.9,15.9,78.3,57.1,6.6,8743.1,Late Blight
+08-02-2025,Karnataka,72.4,30.3,74.7,57.2,6.2,5418.9,Tomato Leaf Mold
+09-02-2025,Kerala,91.6,19.6,65.9,40.4,6.2,4695.6,Late Blight
+10-02-2025,Karnataka,93.8,29.6,73.1,77.6,5.6,4914.8,Late Blight
+11-02-2025,Karnataka,57.2,32.5,42.1,20.7,6.2,4824.1,Bacterial Wilt
+12-02-2025,Kerala,72.3,27,50.8,44.9,7.3,8790.2,Healthy
+13-02-2025,Himachal Pradesh,86,30.8,49.6,122.8,7.4,9144.2,Tomato Leaf Mold
+14-02-2025,Karnataka,62,18.1,50,64.2,6.1,7139.9,Pepper Bell Spot
+15-02-2025,Maharashtra,70.4,24.8,53.2,23.8,6,8453,Tomato Leaf Mold
+16-02-2025,Himachal Pradesh,97.1,22.2,51.2,114.4,6.4,6733.2,Bacterial Wilt
+17-02-2025,Himachal Pradesh,90.6,34,51.7,59.2,6.7,6454.4,Tomato Leaf Mold
+18-02-2025,Maharashtra,94.7,19,71.6,12.2,6.6,5271.4,Pepper Bell Spot
+19-02-2025,Kerala,72.3,33.4,52.1,124.2,7.3,5807.5,Late Blight
+20-02-2025,Himachal Pradesh,84.6,33.8,70.7,114.5,5.7,3653.7,Tomato Leaf Mold
+21-02-2025,Punjab,74.5,33.4,77.4,75.4,6.1,9204.5,Healthy
+22-02-2025,Punjab,53.1,33.3,47.3,19.9,6,3966.3,Bacterial Wilt
+23-02-2025,Punjab,82.8,24.4,51.6,93.9,7,7925.6,Tomato Leaf Mold
+24-02-2025,Karnataka,95.3,33.5,60.3,57.1,7.2,5713.8,Pepper Bell Spot
+25-02-2025,Himachal Pradesh,50.7,29.3,46.8,9.5,7.3,3085.3,Late Blight
+26-02-2025,Maharashtra,60.2,23.4,73.7,94.9,5.5,5416.6,Pepper Bell Spot
+27-02-2025,Kerala,60.4,15.8,75.3,138.1,7.1,3031.1,Pepper Bell Spot
+28-02-2025,Karnataka,95.7,23.9,78.9,63.4,6.7,4133.5,Healthy
+01-03-2025,Himachal Pradesh,98.7,15.8,56.9,80.4,7,3200.4,Healthy
+02-03-2025,Kerala,69.1,24.4,72.1,74,6.3,7610.4,Healthy
+03-03-2025,Punjab,79.6,34.5,51.2,79.4,6.7,7687.2,Late Blight
+04-03-2025,Kerala,80.2,28.3,64.9,21.6,5.8,5994.6,Healthy
+05-03-2025,Maharashtra,50.6,21,49.7,5.8,7.1,4280.3,Bacterial Wilt
+06-03-2025,Karnataka,68.8,21.2,79.3,41.2,7.3,7445.7,Late Blight
+07-03-2025,Himachal Pradesh,66.7,30.6,63.6,75.6,6.6,5053.7,Tomato Leaf Mold
+08-03-2025,Kerala,59.2,29.2,56.7,5,6.3,8178.9,Pepper Bell Spot
+09-03-2025,Kerala,90.7,24.9,75.6,81.6,6,7932.9,Pepper Bell Spot
+10-03-2025,Karnataka,93.2,20.3,63.6,94.3,5.8,8891.4,Bacterial Wilt
+11-03-2025,Punjab,95.8,27.6,40.7,42.4,5.8,4984,Late Blight
+12-03-2025,Himachal Pradesh,55.3,20.3,48.9,26.6,7.4,9194,Pepper Bell Spot
+13-03-2025,Kerala,81.8,15.9,52.6,33.6,5.7,6270.4,Healthy
+14-03-2025,Maharashtra,55.4,26.2,56.4,1,6.6,6200.2,Late Blight
+15-03-2025,Karnataka,65,31.9,60.4,63.9,7,7760.8,Late Blight
+16-03-2025,Karnataka,75.5,33.7,54.5,130.6,6.5,7170.2,Pepper Bell Spot
+17-03-2025,Himachal Pradesh,98.9,31,67.3,109.4,6.2,8568.8,Healthy
+18-03-2025,Punjab,94.1,15.5,45.1,14,7.1,7943.3,Pepper Bell Spot
+19-03-2025,Punjab,78.7,33.4,54.3,78.2,6.1,6466.7,Pepper Bell Spot
+20-03-2025,Kerala,81.3,28.1,78.8,115.9,6.4,5946.6,Pepper Bell Spot
+21-03-2025,Punjab,91.3,25.1,44,134,5.7,3493,Bacterial Wilt
+22-03-2025,Himachal Pradesh,77.8,26.1,42.2,113.6,6.7,7725,Tomato Leaf Mold
+23-03-2025,Himachal Pradesh,74.8,28.1,52.5,72.5,6.9,3480.9,Bacterial Wilt
+24-03-2025,Kerala,58.7,30.9,63.2,74.1,5.7,3126.3,Healthy
+25-03-2025,Kerala,92.3,30.5,58.6,0.2,5.8,4799.1,Late Blight
+26-03-2025,Maharashtra,55.2,33.8,41.4,145.6,6.1,7539.4,Healthy
+27-03-2025,Kerala,56.6,15,66,109.6,6.7,5629.6,Healthy
+28-03-2025,Punjab,64.7,19,51.7,64.9,6.2,9551,Healthy
+29-03-2025,Kerala,82.5,31.8,50.4,28.3,6.1,7727.7,Late Blight
+30-03-2025,Karnataka,71.7,16.3,72.7,41.1,5.5,4338.2,Late Blight
+31-03-2025,Himachal Pradesh,60.1,25.9,49.6,58.7,6.6,3454.4,Tomato Leaf Mold
+01-04-2025,Punjab,62.7,31.7,69.8,111.2,6.6,7343,Late Blight
+02-04-2025,Punjab,86.9,26.1,57.9,51.6,6.5,8268.4,Tomato Leaf Mold
+03-04-2025,Punjab,86.1,26.3,44.9,120.8,5.8,5729.3,Healthy
+04-04-2025,Karnataka,61.7,20,57.4,103.9,6.6,6544,Bacterial Wilt
+05-04-2025,Maharashtra,53.6,34.7,76.7,122,6.7,3589.6,Pepper Bell Spot
+06-04-2025,Kerala,58.6,22,61,128.6,7,8247,Pepper Bell Spot
+07-04-2025,Kerala,96.6,33.8,76.5,107.6,5.9,5899.4,Healthy
+08-04-2025,Punjab,63.4,23.9,47.1,35.2,6.4,6650.2,Healthy
+09-04-2025,Kerala,71.9,29.3,74.5,136.7,5.8,3515.4,Pepper Bell Spot
+10-04-2025,Kerala,61.2,24.9,46.4,28.4,6.5,8046.9,Pepper Bell Spot
+11-04-2025,Kerala,72.5,21.8,73.8,40.6,5.9,7613.4,Late Blight
+12-04-2025,Punjab,59.5,27.3,47.1,4.5,6,6652.5,Tomato Leaf Mold
+13-04-2025,Punjab,71.4,20.8,54.6,46.5,7,3864.3,Late Blight
+14-04-2025,Karnataka,74,17.4,71.4,134.7,6.3,9644.9,Pepper Bell Spot
+15-04-2025,Punjab,99,34.7,46.8,138.8,6.1,7314.2,Tomato Leaf Mold
+16-04-2025,Punjab,69.1,34.2,68.7,32.8,6.2,5923.9,Healthy
+17-04-2025,Punjab,92,27.1,68.6,59.6,7.1,5323.8,Late Blight
+18-04-2025,Punjab,65.5,33.4,77.2,122.1,5.8,5145.5,Late Blight
+19-04-2025,Himachal Pradesh,64.6,23.8,68.8,116.5,6.3,8635.6,Pepper Bell Spot
+20-04-2025,Himachal Pradesh,74.8,18.7,72.7,58.5,6.8,3769.4,Late Blight
+21-04-2025,Maharashtra,83.1,24.7,72.6,117,7.2,3098.8,Healthy
+22-04-2025,Karnataka,56.6,24.3,46.5,50.6,5.6,9826.5,Healthy
+23-04-2025,Kerala,91.1,24.9,78.5,14,5.5,9684.8,Late Blight
+24-04-2025,Kerala,51.1,30.5,48.4,117.7,6.8,8501.6,Bacterial Wilt
+25-04-2025,Punjab,85.4,22.4,60.3,41.5,5.5,9935.2,Tomato Leaf Mold
+26-04-2025,Maharashtra,86.2,33.7,65,0.9,5.8,6722.6,Healthy
+27-04-2025,Karnataka,66,24.7,60.7,103.6,5.7,3524.9,Bacterial Wilt
+28-04-2025,Punjab,91.4,21.6,48.1,52,6.9,7544.5,Bacterial Wilt
+29-04-2025,Punjab,76.6,33.7,41.5,144,6.9,3808.9,Tomato Leaf Mold
+30-04-2025,Karnataka,63.6,29,42.4,61.5,7,4676.6,Bacterial Wilt
+01-05-2025,Karnataka,87,34.5,59.6,122.3,5.6,9926.5,Pepper Bell Spot
+02-05-2025,Kerala,53.2,16.3,40.4,90.9,7.3,7978.1,Late Blight
+03-05-2025,Himachal Pradesh,97.2,26.6,56.8,63.5,6.7,7841.1,Healthy
+04-05-2025,Himachal Pradesh,55.3,34,43.5,52.4,6.9,7880.1,Tomato Leaf Mold
+05-05-2025,Karnataka,55.9,24.2,52.2,141.1,6.7,3863.2,Healthy
+06-05-2025,Himachal Pradesh,50.9,19,70.3,117.3,6.3,9336,Pepper Bell Spot
+07-05-2025,Himachal Pradesh,83.3,18.7,56.6,37,6.2,3993.5,Healthy
+08-05-2025,Kerala,79.4,18.2,72.4,146.2,5.6,7662.9,Pepper Bell Spot
+09-05-2025,Punjab,89.1,32,76.8,120,6.1,4317.6,Late Blight
+10-05-2025,Kerala,65.9,34.4,43.4,129.7,6.4,7033.6,Tomato Leaf Mold
+11-05-2025,Himachal Pradesh,84.9,25.9,72.7,147.3,5.5,7520.8,Tomato Leaf Mold
+12-05-2025,Himachal Pradesh,76.7,16.8,55.4,38.3,6.8,5138.2,Pepper Bell Spot
+13-05-2025,Himachal Pradesh,71.3,34.6,62.9,52.2,7.4,6981.2,Pepper Bell Spot
+14-05-2025,Karnataka,60.8,21.1,40.3,122.2,5.5,7463.3,Tomato Leaf Mold
